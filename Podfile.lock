@@ -7,14 +7,14 @@ DEPENDENCIES:
   - ReSwift (~> 4.0.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - LaunchAtLogin
     - ReSwift
 
 SPEC CHECKSUMS:
-  LaunchAtLogin: 7901f9a3bbfe9e1ea665407d04f4c39ac46fc833
+  LaunchAtLogin: e8d5ac6dc8b973947904ca61241bb36a553c5ef9
   ReSwift: f4012c613e13da7398827fe5aebdb938eaed40a3
 
-PODFILE CHECKSUM: 11a8a6eb35689e3f714a193b9b67bed9092a1450
+PODFILE CHECKSUM: 02993d09f1a15fa23e40ba0e25a5b480b5e2b147
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.10.2
